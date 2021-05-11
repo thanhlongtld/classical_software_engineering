@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T17:11:32.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="2Z5f1WU9in7u0I_rShXc" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T17:34:02.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ms-3146fThlDJpwj8HCn" version="14.6.12" type="github">
   <diagram id="IyVmkQtxX5lsDykcFcm8" name="Page-1">
     <mxGraphModel dx="2031" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="lw_hR1VUG7vaAbUGU-Iq-26" value="- RevenueStatisticTourFrm(User u, tourStatistic: TourStatistic[])&#xa;- actionPerformed (ActionEvent e): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="lw_hR1VUG7vaAbUGU-Iq-23" vertex="1">
           <mxGeometry y="148" width="340" height="52" as="geometry" />
         </mxCell>
-        <object label="TourDetailFrm" txtPW="JTextField" id="_ckGrwLbF2f9QICR6YGw-3">
+        <object label="TourStatDetailFrm" txtPW="JTextField" id="_ckGrwLbF2f9QICR6YGw-3">
           <mxCell style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
             <mxGeometry x="654" y="30" width="340" height="160" as="geometry" />
           </mxCell>
