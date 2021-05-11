@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T17:34:02.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ms-3146fThlDJpwj8HCn" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T17:34:12.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Oxi_hE9aqMlJwvU2giV0" version="14.6.12" type="github">
   <diagram id="IyVmkQtxX5lsDykcFcm8" name="Page-1">
     <mxGraphModel dx="2031" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
         <mxCell id="_ckGrwLbF2f9QICR6YGw-5" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="_ckGrwLbF2f9QICR6YGw-3" vertex="1">
           <mxGeometry y="100" width="340" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="_ckGrwLbF2f9QICR6YGw-6" value="- TourDetailFrm(User u, idt: int, sd: Date, ed: Date)&#xa;- actionPerformed (ActionEvent e): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ckGrwLbF2f9QICR6YGw-3" vertex="1">
+        <mxCell id="_ckGrwLbF2f9QICR6YGw-6" value="- TourStatDetailFrm(User u, idt: int, sd: Date, ed: Date)&#xa;- actionPerformed (ActionEvent e): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_ckGrwLbF2f9QICR6YGw-3" vertex="1">
           <mxGeometry y="108" width="340" height="52" as="geometry" />
         </mxCell>
         <object label="Dao" txtPW="JTextField" id="_ckGrwLbF2f9QICR6YGw-17">
