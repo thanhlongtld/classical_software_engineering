@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T17:06:24.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Sxhyrq6J8rXCBMt-ldRC" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T17:07:15.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Cv55ZECQqCWZ-Wy9vSEU" version="14.6.13" type="github">
   <diagram id="t4tlZuxjI8gYE3MPb138" name="Page-1">
     <mxGraphModel dx="2272" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m6pH_HXsNcH9ToJCQi9M-45" value="Booking" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="344" y="260" width="156" height="208" as="geometry" />
+          <mxGeometry x="344" y="260" width="156" height="182" as="geometry" />
         </mxCell>
         <mxCell id="m6pH_HXsNcH9ToJCQi9M-46" value="- id: integer(10)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m6pH_HXsNcH9ToJCQi9M-45" vertex="1">
           <mxGeometry y="26" width="156" height="26" as="geometry" />
@@ -37,14 +37,11 @@
         <mxCell id="m6pH_HXsNcH9ToJCQi9M-49" value="- note: varchar(255)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m6pH_HXsNcH9ToJCQi9M-45" vertex="1">
           <mxGeometry y="104" width="156" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zK_WetEmpm7shJz5Wuw7-8" value="- tour: bookedTour[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m6pH_HXsNcH9ToJCQi9M-45" vertex="1">
+        <mxCell id="zK_WetEmpm7shJz5Wuw7-15" value="- user: User" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m6pH_HXsNcH9ToJCQi9M-45" vertex="1">
           <mxGeometry y="130" width="156" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zK_WetEmpm7shJz5Wuw7-15" value="- user: User" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m6pH_HXsNcH9ToJCQi9M-45" vertex="1">
-          <mxGeometry y="156" width="156" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="zK_WetEmpm7shJz5Wuw7-18" value="- client: Client" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m6pH_HXsNcH9ToJCQi9M-45" vertex="1">
-          <mxGeometry y="182" width="156" height="26" as="geometry" />
+          <mxGeometry y="156" width="156" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m6pH_HXsNcH9ToJCQi9M-50" value="Tour" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="-140" y="276" width="180" height="156" as="geometry" />
